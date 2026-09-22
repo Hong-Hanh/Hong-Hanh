@@ -1,15 +1,14 @@
 # Xin chào, mình là Hạnh
 
 > Software Tester / QE Intern | Passionate about Software Quality & Android App Development
-
-Sinh viên năm 4 chuyên ngành Công nghệ Phần mềm — Trường Đại học Mở Hà Nội
+> Sinh viên năm 4 chuyên ngành Công nghệ Phần mềm — Trường Đại học Mở Hà Nội
 > Định hướng sự nghiệp: Trở thành một Quality Engineer (QE) / Tester chuyên nghiệp, kết hợp tư duy kiểm thử và tư duy lập trình sẵn có để tối ưu hóa chất lượng sản phẩm.
 
 ---
 
 ### Về mình
 - Kiểm thử phần mềm: Nắm vững SDLC/STLC, kỹ thuật thiết kế Test Case (BVA, Equivalence Partitioning, State Transition, Decision Table), quy trình quản lý Bug và kiểm thử API.
-- Nền tảng Lập trình: Có kiến thức cơ bản về Android (Kotlin, Jetpack Compose, Java) — Phát triển ứng dụng cá nhân FocusMyHome.
+- Nền tảng Lập trình: Có kiến thức cơ bản về Android (Kotlin, Jetpack Compose, Java)
 - Thực hành: Sử dụng Postman test REST API, truy vấn SQL kiểm tra dữ liệu, quản lý mã nguồn bằng Git.
 - Mục tiêu hiện tại: Tìm kiếm cơ hội thực tập vị trí QA/QE Intern, tiếp tục nâng cao kỹ năng SQL nâng cao, API Automation và hướng tới hoàn thành chứng chỉ ISTQB Foundation.
 
