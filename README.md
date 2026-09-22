@@ -1,45 +1,30 @@
 # Xin chào 👋, mình là Hạnh
 
-> **Software Tester / QE Intern** | Passionate about Software Quality & Android App Development
+- 🎓 Sinh viên năm 4 chuyên ngành Công nghệ phần mềm — Đại học Mở Hà Nội
+- 🧪 Đang định hướng phát triển sự nghiệp theo hướng **Software Tester / QE**
+- 📱 Có nền tảng lập trình Android (Kotlin, Jetpack Compose) — tự phát triển ứng dụng FocusMyHome
+- 🔍 Đã thực hành: thiết kế Test Case, kiểm thử API (Postman), viết Bug Report theo chuẩn
+- 📚 Đang tiếp tục trau dồi: SQL, Git, kiểm thử tự động (Automation Testing)
+- 📫 Liên hệ: hanhgtr2753@gmail.com
 
-🎓 **Sinh viên năm 4** chuyên ngành **Công nghệ Phần mềm** — Trường Đại học Mở Hà Nội  
-🎯 **Định hướng sự nghiệp:** Trở thành một **Quality Engineer (QE) / Tester** chuyên nghiệp, kết hợp tư duy kiểm thử sắc bén và tư duy lập trình sẵn có để tối ưu hóa chất lượng sản phẩm.
-
----
-
-### 💡 Về mình
-- 🧪 **Kiểm thử phần mềm:** Nắm vững SDLC/STLC, kỹ thuật thiết kế Test Case (BVA, Equivalence Partitioning, State Transition, Decision Table), quy trình quản lý Bug và kiểm thử API.
-- 📱 **Nền tảng Lập trình:** Cốt lõi chắc chắn về Android (Kotlin, Jetpack Compose, Java) — Tự phát triển ứng dụng cá nhân **FocusMyHome**.
-- 🛠️ **Thực hành thực tế:** Sử dụng Postman test REST API, truy vấn SQL kiểm tra dữ liệu, quản lý mã nguồn bằng Git.
-- 🚀 **Mục tiêu hiện tại:** Tìm kiếm cơ hội thực tập vị trí **QA/QE Intern**, tiếp tục nâng cao kỹ năng SQL nâng cao, API Automation và hướng tới chứng chỉ **ISTQB Foundation**.
-
-📫 **Liên hệ với mình:**
-- 📧 Email: [hanhgtr2753@gmail.com](mailto:hanhgtr2753@gmail.com)
-
-
----
-
-### 🛠️ Kỹ năng & Công cụ (Tech Stack)
-
-#### **Testing & QA Skills**
-![Testing](https://img.shields.io/badge/Testing-Manual_&_API-blue?style=for-the-badge&logo=appveyor&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-#### **Development & Databases**
+## 🛠️ Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+## 💾 Databases & Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📚 Lộ trình phát triển (Learning Roadmap)
+## 🧪 Kỹ năng kiểm thử
+Kiểm thử: SDLC/STLC · Test Case Design · Bug Life Cycle · Regression Testing
+Công cụ: Postman · Git · Firebase
 
-- [x] **Testing Core:** SDLC, STLC, Bug Life Cycle, Test Design Techniques (BVA, EP, Decision Table, State Transition).
-- [x] **API Testing:** Kiểm thử RESTful API, thiết kế Request/Response validation bằng Postman.
-- [x] **Version Control:** Git workflow, phân nhánh & quản lý source code.
-- [ ] **Database Testing:** Ôn luyện và nâng cao kỹ năng truy vấn SQL (JOIN, Aggregate functions, Subqueries).
-- [ ] **Automation Testing:** Nghiên cứu và thực hành Automation Testing (Playwright / Selenium).
-- [ ] **Certification:** Ôn luyện để đạt chứng chỉ **ISTQB Foundation Level (CTFL)**.
+## 📚 Learning Roadmap
+- [x] SDLC, STLC, Bug Life Cycle
+- [x] Test Case Design (Equivalence Partitioning, Boundary Value Analysis, Decision Table, State Transition)
+- [x] API Testing với Postman
+- [ ] SQL nâng cao cho kiểm thử dữ liệu
+- [ ] Kiểm thử tự động (Playwright/Selenium)
+- [ ] Chứng chỉ ISTQB Foundation
