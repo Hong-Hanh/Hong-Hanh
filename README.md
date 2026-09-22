@@ -3,7 +3,7 @@
 > Software Tester / QE Intern | Passionate about Software Quality & Android App Development
 
 Sinh viên năm 4 chuyên ngành Công nghệ Phần mềm — Trường Đại học Mở Hà Nội
-Định hướng sự nghiệp: Trở thành một Quality Engineer (QE) / Tester chuyên nghiệp, kết hợp tư duy kiểm thử và tư duy lập trình sẵn có để tối ưu hóa chất lượng sản phẩm.
+> Định hướng sự nghiệp: Trở thành một Quality Engineer (QE) / Tester chuyên nghiệp, kết hợp tư duy kiểm thử và tư duy lập trình sẵn có để tối ưu hóa chất lượng sản phẩm.
 
 ---
 
