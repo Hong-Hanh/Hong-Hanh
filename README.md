@@ -8,8 +8,27 @@
 - 📫 Liên hệ: hanhgtr2753@gmail.com
 
 ![Hạnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-Hanh&show_icons=true&theme=radical)
+
+## 🛠️ Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 💾 Databases & Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ## 🛠️ Kỹ năng & Công cụ
 Kiểm thử: SDLC/STLC · Test Case Design · Bug Life Cycle · Postman
 Lập trình: Kotlin · Java
 Công cụ: Git · Firebase
+
+## 📚 Learning Roadmap
+- [x] SDLC, STLC, Bug Life Cycle
+- [x] Test Case Design (Equivalence Partitioning, Boundary Value Analysis, Decision Table, State Transition)
+- [x] API Testing với Postman
+- [ ] SQL nâng cao cho kiểm thử dữ liệu
+- [ ] Kiểm thử tự động (Playwright/Selenium)
+- [ ] Chứng chỉ ISTQB Foundation
 
