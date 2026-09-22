@@ -1,16 +1,14 @@
-## Hi there 👋
+# Xin chào 👋, mình là Hạnh
 
-<!--
-**Hong-Hanh/Hong-Hanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Sinh viên năm 4 chuyên ngành Công nghệ phần mềm — Đại học Mở Hà Nội
+- 🧪 Đang định hướng phát triển sự nghiệp theo hướng **Software Tester / QE**
+- 📱 Có nền tảng lập trình Android (Kotlin, Jetpack Compose) — tự phát triển ứng dụng FocusMyHome
+- 🔍 Đã thực hành: thiết kế Test Case, kiểm thử API (Postman), viết Bug Report theo chuẩn
+- 📚 Đang tiếp tục trau dồi: SQL, Git, kiểm thử tự động (Automation Testing)
+- 📫 Liên hệ: hanhgtr2753@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Kỹ năng & Công cụ
+Kiểm thử: SDLC/STLC · Test Case Design · Bug Life Cycle · Postman
+Lập trình: Kotlin · Java
+Công cụ: Git · Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
