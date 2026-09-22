@@ -7,7 +7,7 @@
 - 📚 Đang tiếp tục trau dồi: SQL, Git, kiểm thử tự động (Automation Testing)
 - 📫 Liên hệ: hanhgtr2753@gmail.com
 
-![Hạnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-Hanh&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hong-Hanh&show_icons=true)
 
 ## 🛠️ Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
